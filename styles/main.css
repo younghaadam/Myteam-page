@@ -45,3 +45,23 @@ footer {
     color: #A9A9A9;
     text-decoration: underline;
 }
+
+.all-photos {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    row-gap: 50px;
+    margin-left: 100px;
+    padding: 80px;
+    grid-gap: 15px;
+}
+
+.img-1 {
+    height: 300px;
+    width: 200px;
+}
+
+
+    
+
+
+
