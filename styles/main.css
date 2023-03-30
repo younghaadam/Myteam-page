@@ -1,0 +1,47 @@
+.main-part {
+    display: flex;
+    justify-content: center;
+}
+
+.main-header {
+    margin-right: 150px;
+    font-family: 'PT Serif', serif;
+    font-style: normal;
+    font-size: 36px;
+    color: black;
+    font-weight: 700;
+}
+
+.second-header {
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    font-style: normal;
+    color: black;
+}
+
+.paragraph-text {
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    font-style: normal;
+    color: black;
+}
+
+footer {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    color: #A9A9A9;
+    text-align: center;
+}
+
+.footer-names {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    color: #A9A9A9;
+    text-decoration: underline;
+}
